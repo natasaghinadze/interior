@@ -58,3 +58,84 @@
   line-height: 0.9;
   text-align: center;
 }
+
+/* მესამე სექცია */
+
+.AboutUs{
+  max-width: 45rem;
+  width: 100%;
+  margin-left: 12.25rem ;
+  margin-top: 12.25rem;
+}
+.AboutUs h2{
+  margin-bottom: 2rem;
+}
+
+/* მესამე სექცია */
+.project{
+  margin-top: 11rem;
+  margin-left: 7rem;
+}
+.pro-img-01{
+  background-image: url('./images/01.png');
+  max-width: 470px;
+  width: 100%;
+  height: 395px;
+  margin-top: 2rem;
+  margin-left: 9rem;
+  position: absolute;
+}
+.number-01{
+  position: relative;
+  top: 23rem;
+  left: 7rem;
+}
+.pro-name{
+  position: relative;
+  max-width: 275px;
+  width: 100%;
+  top: 30rem;
+  left: 13rem;
+}
+.pro-img-02{
+  position: relative;
+  background-image: url('./images/02.png');
+  max-width: 465px;
+  width: 100%;
+  height: 395px;
+  top: 15rem;
+  left: 45rem;
+}
+.number-02{
+  position: absolute;
+  top: -2rem;
+  left: 7rem;
+}
+.pro-name-2{
+  position: relative;
+  max-width: 275px;
+  width: 100%;
+  top: -25rem;
+  left: 45rem;
+}
+.pro-img-03{
+  background-image: url('./images/01.png');
+  max-width: 470px;
+  width: 100%;
+  height: 395px;
+  margin-top: 2rem;
+  margin-left: 9rem;
+  position: absolute;
+}
+.number-03{
+  position: relative;
+  top: 23rem;
+  left: 7rem;
+}
+.pro-name-3{
+  position: relative;
+  max-width: 275px;
+  width: 100%;
+  top: 30rem;
+  left: 13rem;
+}
